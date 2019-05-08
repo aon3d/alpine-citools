@@ -5,6 +5,15 @@ any other application _unspecific_ jobs that need to be run.
 
 ## Included Tools
 
+### General Tools
+
 * openSSH
 * git
 * python3
+* make
+
+### Firmware Related
+
+* avr-gcc
+* avr-libc
+* arduino-avr-core
