@@ -7,6 +7,7 @@ any other application _unspecific_ jobs that need to be run.
 
 ### General Tools
 
+* curl
 * openSSH
 * git
 * python3
