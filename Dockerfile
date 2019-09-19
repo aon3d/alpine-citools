@@ -7,7 +7,8 @@ RUN apk update && apk add \
         make \
         python3 \
         gcc-avr \
-        avr-libc
+        avr-libc \
+        hugo
 
 RUN git clone https://github.com/arduino/ArduinoCore-avr.git && \
         mkdir -p /usr/share/arduino/hardware/arduino && \
